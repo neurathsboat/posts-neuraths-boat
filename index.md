@@ -9,7 +9,8 @@ summary = "Welcome to Neurath's boat, a blog about projects I am involved in, co
 abstract = "Welcome to Neurath's boat, a blog about projects I am involved in, computational and analytical tools I find useful, and \"thoughts in progress\"."
 hasPlotly = false
 authors = ["Vassilis Kehayas"]
-doi = "10.5281/zenodo.2079971"
+doi = "10.5281/zenodo.2079970"
+sourceFile = "index.md"
 
 +++
 
