@@ -118,20 +118,23 @@ This blog is a dedication to this effort.
 
 ## References
 
-Cat, Jordi, "Otto Neurath", The Stanford Encyclopedia of Philosophy
-(Summer 2018 Edition), Edward N. Zalta (ed.),
-https://plato.stanford.edu/archives/win2017/entries/neurath/.
+Cat, Jordi,
+["Otto Neurath"]
+(https://plato.stanford.edu/archives/sum2018/entries/neurath/),
+The Stanford Encyclopedia of Philosophy (Summer 2018 Edition)],
+Edward N. Zalta (ed.).
 
 ## See also
-Rysiew, Patrick, "Naturalism in Epistemology", The Stanford Encyclopedia of
-Philosophy (Spring 2017 Edition), Edward N. Zalta (ed.), URL =
-<https://plato.stanford.edu/archives/spr2017/entries/epistemology-naturalized/>.
+Rysiew, Patrick,
+["Naturalism in Epistemology"]
+(https://plato.stanford.edu/archives/spr2017/entries/epistemology-naturalized/),
+The Stanford Encyclopedia of Philosophy (Spring 2017 Edition),
+Edward N. Zalta (ed.).
 
-Gödel's incompleteness theorems,
-https://en.wikipedia.org/w/index.php?title=G%C3%B6del%27s_incompleteness_theorems&oldid=833111902
-(last visited Mar. 29, 2018).
-
+[Gödel's incompleteness theorems]
+(https://en.wikipedia.org/w/index.php?title=G%C3%B6del%27s_incompleteness_theorems&oldid=833111902).
+Wikipedia, The Free Encyclopedia (2018, March 29).
 
 [^1]: My threshold is 2.
 
-[2]: https://plato.stanford.edu/archives/win2017/entries/neurath/
+[2]: https://plato.stanford.edu/archives/sum2018/entries/neurath/
